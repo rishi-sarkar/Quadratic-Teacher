@@ -21,22 +21,22 @@ Each format has a difficulty level (shown on the right side of the interface) th
 ### Screenshots
 
 **Home Screen**  
-![Screenshot of Home Screen](Screenshot%202025-03-13%20at%2010.35.59%E2%80%AFPM.png)
+![Screenshot of Home Screen](README_images/Home.png)
 
 The Home screen introduces the main modes: Sandbox, Quiz, and Unlimited. You can choose any mode to start practicing.
 
 **Sandbox Mode**  
-![Screenshot of Sandbox Mode](Screenshot%202025-03-13%20at%2010.38.10%E2%80%AFPM.png)
+![Screenshot of Sandbox Mode](README_images/Sandbox.png)
 
 In the Sandbox, you can generate unlimited random questions. Enter your factored form in the `Answer` field and press Enter. If you get the correct factoring, you’ll see a confirmation below.
 
 **Quiz Mode**  
-![Screenshot of Quiz Mode](Screenshot%202025-03-13%20at%2010.38.52%E2%80%AFPM.png)
+![Screenshot of Quiz Mode](README_images/Quiz.png)
 
 In Quiz mode, you’ll receive 10 questions in total. Your current points and final score are shown at the bottom-right.
 
 **Unlimited Mode**  
-![Screenshot of Unlimited Mode](Screenshot%202025-03-13%20at%2010.38.55%E2%80%AFPM.png)
+![Screenshot of Unlimited Mode](README_images/Unlimited.png)
 
 In Unlimited mode, a correct answer keeps your streak going, and the streak count is displayed on the right. Aim for a high score!
 
@@ -45,7 +45,7 @@ In Unlimited mode, a correct answer keeps your streak going, and the streak coun
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/YourUsername/Quadratic-Teacher.git
+   git clone https://github.com/rishi-sarkar/Quadratic-Teacher.git
 
    ```
 
